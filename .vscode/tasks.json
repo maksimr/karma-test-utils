@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "npm run test -- --no-single-run",
+      "group": "test",
+      "label": "npm: test:watch",
+      "detail": "run test in watch mode"
+    }
+  ]
+}

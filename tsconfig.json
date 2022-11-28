@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./@types"
+    ]
+  },
+  "include": [
+    "@types/**/*",
+    "scripts/**/*",
+    "test",
+    "src",
+    "lib"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
