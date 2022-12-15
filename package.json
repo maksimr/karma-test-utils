@@ -25,7 +25,7 @@
     "karma-webpack": "5.0.0",
     "karma-jasmine": "5.1.0",
     "karma-chrome-launcher": "3.1.1",
-    "karma-spec-reporter": "0.0.35",
+    "karma-spec-reporter": "0.0.36",
     "playwright": "1.28.1",
     "generate-changelog": "1.8.0"
   },
