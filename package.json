@@ -16,7 +16,7 @@
     "lint": "eslint lib/ test/"
   },
   "devDependencies": {
-    "eslint": "8.42.0",
+    "eslint": "8.43.0",
     "typescript": "5.1.3",
     "@types/jasmine": "4.3.3",
     "@types/webpack-env": "1.18.1",
